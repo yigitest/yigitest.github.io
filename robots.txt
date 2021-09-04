@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yigitest.github.io/sitemap.xml

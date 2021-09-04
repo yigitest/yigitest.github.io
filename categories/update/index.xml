@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>update on yigitest</title>
+    <link>https://yigitest.github.io/categories/update/</link>
+    <description>Recent content in update on yigitest</description>
+    <image>
+      <url>https://yigitest.github.io/papermod-cover.png</url>
+      <link>https://yigitest.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://yigitest.github.io/categories/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://yigitest.github.io/posts/hello-world/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://yigitest.github.io/posts/hello-world/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>
